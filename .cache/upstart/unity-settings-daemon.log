@@ -1,0 +1,10 @@
+
+(unity-settings-daemon:1195): power-plugin-WARNING **: failed to turn the kbd backlight off: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No existe tal interfaz «org.freedesktop.UPower.KbdBacklight» en ruta de objeto /org/freedesktop/UPower/KbdBacklight
+
+(unity-settings-daemon:1195): power-plugin-WARNING **: failed to turn the kbd backlight off: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No existe tal interfaz «org.freedesktop.UPower.KbdBacklight» en ruta de objeto /org/freedesktop/UPower/KbdBacklight
+
+(unity-settings-daemon:1195): power-plugin-WARNING **: failed to turn the kbd backlight off: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No existe tal interfaz «org.freedesktop.UPower.KbdBacklight» en ruta de objeto /org/freedesktop/UPower/KbdBacklight
+
+(unity-settings-daemon:1195): power-plugin-WARNING **: failed to turn the kbd backlight off: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No existe tal interfaz «org.freedesktop.UPower.KbdBacklight» en ruta de objeto /org/freedesktop/UPower/KbdBacklight
+
+(unity-settings-daemon:1195): power-plugin-WARNING **: failed to turn the kbd backlight off: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No existe tal interfaz «org.freedesktop.UPower.KbdBacklight» en ruta de objeto /org/freedesktop/UPower/KbdBacklight

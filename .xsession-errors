@@ -1,0 +1,5 @@
+openConnection: connect: No existe el archivo o el directorio
+cannot connect to brltty at :0
+upstart: indicator-application main proceso terminado, reiniciando
+upstart: indicator-application main proceso terminado, reiniciando
+upstart: indicator-application se está reiniciando demasiado rápido, detenido

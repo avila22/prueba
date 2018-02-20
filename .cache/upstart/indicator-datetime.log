@@ -1,0 +1,2 @@
+
+(process:1467): Indicator-Datetime-WARNING **: Unable to start "evolution "calendar:///?startdate=20180220T060000Z"": Falló al ejecutar el proceso hijo «evolution» (No existe el archivo o el directorio)

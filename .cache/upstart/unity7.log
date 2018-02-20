@@ -1,0 +1,24 @@
+1519141590196	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1519141590274	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1519141590574	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1519141590640	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1519141590815	addons.update-checker	WARN	Update manifest for timecop@mozilla.com did not contain an updates property
+1519141590839	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+1519141590859	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1519141590914	addons.update-checker	WARN	Update manifest for disable-crash-autosubmit@mozilla.org did not contain an updates property
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: loadFile@resource://gre/modules/services-common/blocklist-clients.js:119:30
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+loadDumpFile@resource://gre/modules/services-common/blocklist-clients.js:118:12
+syncCollection@resource://gre/modules/services-common/blocklist-clients.js:212:39
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+
+*************************
+
+(firefox:2153): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
